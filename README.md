@@ -30,23 +30,19 @@ Através de análises exploratórias, identificação de padrões e geração de
 
 <h3> 🔸 Distribuição da Evasão </h3>
 
-![Image](images/distribuicao_evasao.png)
+![Image](Imagem/geral.png)
 
 <h3> 🔸 Evasão por Tipo de Contrato </h3>
 
-![Image](images/evasao_por_tipo_de_contrato.png)
+![Image](Imagem/contratos.png)
 
 <h3> 🔸 Análise de Gasto Total vs Tempo de Contrato </h3>
 
-![Image](images/dispersao_tempo_contrato_gasto.png)
+![Image](Imagem/dispersao_tempo_contrato_gasto.png)
 
 <h3> 🔸 Matriz de Correlação das Variáveis Numéricas </h3>
 
-![Image](images/matriz_correlacao.png)
-
-<h3> 🔸 Outros Gráficos e Análises </h3>
-
-*(Inserir outras imagens que desejar)*
+![Image](Imagem/matriz_correlacao.png)
 
 <h2> 🏆 Principais Insights </h2>
 
