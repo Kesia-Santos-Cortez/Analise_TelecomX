@@ -73,4 +73,4 @@ Através de análises exploratórias, identificação de padrões e geração de
 <h2> 👤 Autor </h2>
 
 - **Kesia Santos**  
-🔗 [Seu LinkedIn](linkedin.com/in/kesia-karine-santos/) | [Seu GitHub](https://github.com/Kesia-Santos-Cortez)
+🔗 [Kesia_Santos](https://www.linkedin.com/in/kesia-karine-santos/) | [Seu GitHub](https://github.com/Kesia-Santos-Cortez)
