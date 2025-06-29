@@ -30,7 +30,7 @@ Através de análises exploratórias, identificação de padrões e geração de
 
 <h3> 🔸 Distribuição da Evasão </h3>
 
-![Image](Imagem/geral.png)
+![Image](Imagem/Geral_.png)
 
 <h3> 🔸 Evasão por Tipo de Contrato </h3>
 
