@@ -22,7 +22,6 @@ Através de análises exploratórias, identificação de padrões e geração de
 - Remoção e tratamento de dados nulos.
 - Conversão de tipos incorretos (ex.: `TotalCharges` de texto para float).
 - Criação de variáveis auxiliares, como:
-  - Tempo de contrato (`customer_tenure`)
   - Total de gastos (`account_Charges_Total`)
   - Média de gasto diário (`Contas_Diarias`)
 
